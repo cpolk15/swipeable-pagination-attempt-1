@@ -1,0 +1,13 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/oliviertassinari/react-swipeable-views/tree/master/docs/src/pages/demos/DemoTabs.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.9.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-swipeable-views": "latest"
+  },
+  "keywords": [],
+  "name": "carousel-pagination-demo-attempt-1"
+}
